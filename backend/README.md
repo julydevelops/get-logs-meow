@@ -9,27 +9,10 @@ A simple Node.js/Express API for reading and filtering log files.
 - **TypeScript Support**: Fully written in TypeScript for improved development experience.
 
 
-## Prerequisites
-
-- Node.js (>= 14.x)
-- npm (>= 6.x)
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/get-logs-meow.git
-   cd get-logs-meow
-
-2. Run `nvm install` to install the correct Node version. 
-
-    If you do not have nvm, you can install it with `brew install nvm`. 
-    
-    If you dont have HomeBrew, thats another problem all together!
-
-3. Install dependencies with `npm i`
-
 ## Local Development
 
-1. Run `npm run dev` to start nodemon for live updates during development
+1. Perform the command below to start nodemon for live updates during development
+
+```bash
+npm run dev
+```
