@@ -1,6 +1,6 @@
 # Get Logs Meow
 
-A simmple fullstack application to retrieve logs from a server
+A simple fullstack application to retrieve logs from a server
 
 ## Prerequisites
 
