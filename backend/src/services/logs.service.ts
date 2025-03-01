@@ -46,7 +46,7 @@ export const tailSearch = async (
 
       // Filter lines
       for (const line of lines) {
-        if (!searchTerm || line.includes(searchTerm)) {
+        if (!searchTerm || line.toLocaleLowerCase().includes(searchTerm.toLocaleLowerCase())) {
           matchedLines.push(line);
           if (matchedLines.length >= maxMatches) {
             break;
