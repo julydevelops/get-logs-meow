@@ -49,3 +49,10 @@ Go to the respective README for further instructions
 
 - [backend](backend/README.md)
 - [frontend](frontend/README.md)
+
+## Future Enhancements
+
+1. Create separate projects for the front and backend.
+2. Have more testing code coverage.
+3. More stringent request validation.
+4. (frontend) Better state management.
